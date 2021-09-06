@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventFocusMoving", "PreventFocusMoving.csproj", "{83122A76-236E-4989-89EE-E4499F380C65}"
 EndProject
 Global
